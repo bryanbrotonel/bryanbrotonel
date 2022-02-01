@@ -2,7 +2,7 @@
 
 ### I'm a Web Developer from Vancouver, Canada.
 
-I am a tech ✨ *enthusiast* ✨ passionate about utilizing technology 💻 to express my creativity 🎨. Web development bridges that gap between creativity and tech by creating optimized solutions with a personal touch. 🤝
+I am a tech ✨ *enthusiast* ✨ passionate about utilizing technology 💻 to express my creativity 🎨. Web development bridges that gap between creativity and tech, allowing me to create optimized solutions with a personal touch. 🤝
 
 - ⚡ Fun fact: I hate running, yet I do it all the time
 - 🧠 I’m looking for insight with resume reviews, industry experience, techinical interviews
