@@ -12,7 +12,7 @@ I am a tech ✨ *enthusiast* ✨ passionate about utilizing technology 💻 to e
 <!-- - 📫 How to reach me: ... -->
 <!-- - 👯 I’m looking to collaborate on ... -->
 
-Want to learn more about me? Check me out over [here!](https://bryanbrotonel.netlify.app/)
+Want to learn more about me? Check me out over [here!](https://bryanbrotonel.live/)
 
 #### 📬 Where to Reach Me 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bryanbrotonel/)](https://www.linkedin.com/in/bryanbrotonel)
