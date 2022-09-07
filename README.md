@@ -2,13 +2,14 @@
 
 ### I'm a Web Developer from Vancouver, Canada.
 
-I am a tech ✨ *enthusiast* ✨ passionate about utilizing technology 💻 to express my creativity 🎨. Web development bridges that gap between creativity and tech, allowing me to create optimized solutions with a personal touch. 🤝
+I am a tech ✨ *nerd* ✨ passionate about utilizing technology 💻 to express my creativity 🎨. Web development bridges that gap, allowing me to create optimized solutions to complex problems. 👨‍💻
 
-- ⚡ Fun fact: I hate running, yet I do it all the time
-- 🧠 I’m looking for insight with resume reviews, industry experience, techinical interviews
 - 🔭 I’m currently working on something fresh and exciting 👀
-- 🌱 I’m currently learning Express, Jest
-- 💬 Talk to me about basketball 🏀, pop culture 💅, your day ☕️
+- 🌱 I’m currently learning Jest and Next.js
+- 👯 I’m looking to collaborate on new app ideas and interview preparation
+- 🧠 I’m looking for insight with resume reviews, industry experience, techinical interviews
+- 💬 Talk to me about your career 💼, your day ☕️, basketball 🏀
+- ⚡ Fun fact: I have a love/hate relationship running
 <!-- - 📫 How to reach me: ... -->
 <!-- - 👯 I’m looking to collaborate on ... -->
 
