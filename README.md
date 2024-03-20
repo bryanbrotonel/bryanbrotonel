@@ -12,7 +12,7 @@ I am a tech ✨ _enthusiast_ ✨ passionate about utilizing technology 💻 to e
 - ⚡️ Fun fact: I have a love/hate relationship running
 <!-- - 📫 How to reach me: ... -->
 
-Want to learn more about me? Check me out over [here!](https://bryanbrotonel.live/)
+Want to learn more about me? Check me out over [here!](https://bryanbrotonel.vercel.app)
 
 #### 📬 How to Reach Me 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bryanbrotonel/)](https://www.linkedin.com/in/bryanbrotonel)
